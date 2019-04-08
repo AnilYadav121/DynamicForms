@@ -1,0 +1,4 @@
+#Mon Apr 08 10:55:33 IST 2019
+base.0=/Users/shekharjuneja/Documents/Root/forms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
